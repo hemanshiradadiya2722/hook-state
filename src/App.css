@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  /* margin-top: 200px; */
+  /* box-shadow: 10px 10px 10px 10px rgb(218, 242, 249); */
+}
+
+.main {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 300px;
+  margin: auto;
+}
+
+input {
+  margin: 5px;
+  padding: 8px;
+  border-radius: 4px;
+  border: 1px solid #ddd;
+}
+
+input[type="button"] {
+  cursor: pointer;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+}
